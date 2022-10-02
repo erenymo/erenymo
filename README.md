@@ -3,13 +3,5 @@
 - 🏫 I'm a student at Marmara University | Management Information Systems
 - 🌱 I’m currently learning Java Technologies
 
-<!--
-**erenymo/erenymo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=erenymo&color=red)
 
-Here are some ideas to get you started:
-
-- 🏫 I'm a student at Marmara University | Management Information Systems
-- 🌱 I’m currently learning Java Technologies
-
-
--->
