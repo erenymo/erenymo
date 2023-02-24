@@ -20,6 +20,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenymo&" alt="erenymo" /></p>
 
-
-![](https://komarev.com/ghpvc/?username=erenymo&color=red)
-
