@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenymo&label=Profile%20views&color=0e75b6&style=flat" alt="erenymo" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development** and **Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
