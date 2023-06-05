@@ -4,7 +4,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Full Stack Web Development and Programming
 
-Here is my (Portfolio Website)[https://erenymo.github.io/Portfolio-Website/].
+Here is my [Portfolio Website](https://erenymo.github.io/Portfolio-Website/)
 
 
 ## 🌐 Socials:
