@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Eren from Marmara University, Istanbul/Turkey.<br><br>- 🔭 I’m working as Jr. Frontend Developer for now.<br>- 📚 I'm currently learning Javascript and Web development.</p>
+<p align="left">I'm Eren from Marmara University, Istanbul/Turkey. (Also Erasmus student in Poland at February 2024)<br><br>- 🔭 I’m working as Jr. Frontend Developer for now.<br>- 📚 I'm currently learning Javascript and Web development.</p>
 
 ###
 
