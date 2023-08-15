@@ -24,7 +24,7 @@
 
 ###
 
-I'm Eren from Marmara University, Istanbul/Turkey.<br><br>- 🔭 I’m working on<a href= "https://github.com/erenymo/JS-Resources">Javascript</a> <p align="left"><br>- 📚 I'm currently learning Javascript and Web development.<br><br>- ✉️ You can reach me : erenbaltailetisim@gmail.com</p>
+I'm Eren from Marmara University, Istanbul/Turkey.<br><br>- 🔭 I’m working on <a href= "https://github.com/erenymo/JS-Resources">Javascript</a> <p align="left">- 📚 I'm currently learning Javascript and Web development.<br><br>- ✉️ You can reach me : erenbaltailetisim@gmail.com</p>
 
 ###
 
