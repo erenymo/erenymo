@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Jr. Frontend Developer</h3>
 - 🔭 I’m currently working on [Javascript](https://github.com/erenymo/JS-Resources)
+
 - 🌱 I’m currently learning **Javascript and Web Development**
 
 - 📫 How to reach me **erenbaltailetisim@gmail.com**
