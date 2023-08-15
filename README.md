@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Jr. Frontend Developer</h3>
-- 🔭 I’m currently working on [Click Here !](https://erenymo.github.io/e-commerce-product-page-project/)
+- 🔭 I’m currently working on [Javascript Repository](https://github.com/erenymo/JS-Resources)
 - 🌱 I’m currently learning **Javascript and Web Development**
 
 - 📫 How to reach me **erenbaltailetisim@gmail.com**
