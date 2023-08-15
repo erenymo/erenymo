@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Eren from Marmara University, Istanbul/Turkey.<br><br>- 🔭 I’m working as Jr. Frontend Developer for now.<br>- 📚 I'm currently learning Javascript and Web development.</p>
+<p align="left">I'm Eren from Marmara University, Istanbul/Turkey.<br><br>- 🔭 I’m working on [Javascript](https://github.com/erenymo/JS-Resources)<br>- 📚 I'm currently learning Javascript and Web development.<br><br>- ✉️ You can reach me : erenbaltailetisim@gmail.com</p>
 
 ###
 
@@ -55,6 +55,5 @@
 </div>
 
 ###
-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
