@@ -26,7 +26,7 @@
 
 ### I'm Eren from Marmara University, Istanbul/Turkey.<br><br>
 - 🔭 I’m working on <a href= "https://github.com/erenymo/ReCapProject">ASP.NET Backend Project</a>
-- 📚 I'm currently learning React and .NET Framework<br>
+- 📚 I'm currently learning React.JS and .NET Framework<br>
 - 🚀 Also, check my projects and feedbacks on [Frontend Mentor](https://www.frontendmentor.io/profile/erenymo) !
 - ✉️ You can reach me : erenbaltailetisim@gmail.com <br>
 
