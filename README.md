@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">📚 I'm currently working on ASP.NET and React.JS environment<br>🎲 Check my projects and feedbacks on Frontend Mentor <br>✉️ You can reach me : erenbaltailetisim@gmail.com</p>
+<p align="left">📚 I'm currently working on ASP.NET and React.JS environment<br>🎲 Check my projects and feedbacks on  <a href="https://www.linkedin.com/in/eren-balta/" target="_blank">
+    Frontend Mentor
+  </a> <br>✉️ You can reach me : erenbaltailetisim@gmail.com</p>
 
 ###
 
