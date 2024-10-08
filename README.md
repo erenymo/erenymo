@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eren and I'm a Software Developer Intern at Gelecek Varlık Yönetimi A.Ş.</p>
+<p align="left">My name is Eren and I'm a Software Developer at Gelecek Varlık Yönetimi A.Ş.</p>
 
 ###
 
